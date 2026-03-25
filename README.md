@@ -169,7 +169,7 @@
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
 
 ## 🗂️ Collections
-- [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source single-file CLIs (Node.js, Python, Go, Rust) implementing the full Claude Code tool loop. Provider-agnostic: Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, LM Studio. Zero dependencies, built-in permissions, session persistence, and skill loading.
+- [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic SDK implementing the Claude Code tool loop in 4 languages (Node.js, Python, Go, Rust). Works with: Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, LM Studio. Zero dependencies, built-in permissions, session persistence, and skill loading.
 
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
