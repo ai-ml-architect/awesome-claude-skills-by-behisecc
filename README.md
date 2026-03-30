@@ -169,7 +169,6 @@
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
 
 ## 🗂️ Collections
-- [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic SDK implementing the Claude Code tool loop in 4 languages (Node.js, Python, Go, Rust). Works with: Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, LM Studio. Zero dependencies, built-in permissions, session persistence, and skill loading.
 
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
@@ -178,6 +177,7 @@
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
+- [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
 
 ## 🤝 Contribution
 
